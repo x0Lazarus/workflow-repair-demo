@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Normalize a small, known order-export schema. Author: x0Lazarus.
 
-Copyright (c) 2026 x0Lazarus. AI-assisted; see README.md.
+Copyright (c) 2026 x0Lazarus.
 """
 
 from __future__ import annotations

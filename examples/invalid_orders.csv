@@ -1,0 +1,3 @@
+order_id,customer_ref,order_date,amount,currency
+00017,Demo North,2026-09-01,10.10,USD
+00018,Demo West,2026-09-02,19.999,USD
